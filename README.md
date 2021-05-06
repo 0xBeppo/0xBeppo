@@ -1,6 +1,7 @@
 # Hello world! 👋
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Linkedin: markelelorza](https://img.shields.io/badge/-markelelorza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markelelorza/)](https://www.linkedin.com/in/markelelorza/)
 
 
 ```bash
