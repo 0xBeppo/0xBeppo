@@ -8,7 +8,7 @@
 $ whoami
 ```
 Hello world! My name is Markel Elorza and I'm a Computer Science Engineer.
-Currently studiyng a Master Degree on Cyber Security as a pasionate of this world.
+I'm currently studying for a Master's degree in Cybersecurity as a cybersecurity enthusiast.
 
 ```bash
 $ find www -name Blogs -user beppo 2>/dev/null
