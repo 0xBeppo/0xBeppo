@@ -23,6 +23,9 @@ I am committed to staying up-to-date with the latest industry trends and advance
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=6aa6f8)
 
+## 🔧 Credentials & Certifications
+
+<a href="https://www.credly.com/badges/a7bade4a-933f-427d-8e26-26c0bb774e41?source=linked_in_profile"> <img src="https://github.com/cncf/artwork/blob/master/projects/kubernetes/stacked/color/kubernetes-stacked-color.png"  width="10%" height="10%"></a>
 
 ## 🤝 Some Contributions
 
