@@ -7,9 +7,7 @@
 ```bash
 $ whoami
 ```
-Hello world! My name is Markel Elorza and I'm a Cloud Cybersecurity and SecDevOps Engineer.
-
-I am committed to staying up-to-date with the latest industry trends and advancements in cybersecurity and cloud native technologies. Constantly learning and evolving my skills.
+Hello world! My name is Markel Elorza and I'm a DevOps Engineer and enthusiast. Constantly learning and evolving my skills.
 
 
 
